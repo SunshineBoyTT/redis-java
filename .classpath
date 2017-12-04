@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="libs/commons-csv-20070730.jar"/>
+	<classpathentry kind="lib" path="gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="libs/jedis-2.9.0.jar"/>
+	<classpathentry kind="lib" path="libs/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="libs/javatuples-1.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
